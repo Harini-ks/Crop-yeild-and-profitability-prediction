@@ -1,0 +1,55 @@
+.form-control1 {
+    display: block;
+    width: 100%;
+    height: calc(1.5
+em
+ + 0.75
+rem
+ + 2
+px
+);
+    padding: 0.345
+rem
+ 0.75
+rem
+;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1
+px
+ solid #ced4da;
+    border-radius: 0.25
+rem
+;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    position: absolute;
+    top: -400
+px
+;
+}
+
+
+
+
+
+
+.col-md-10 {
+    position: absolute;
+    top: 50
+px
+;
+max-width: 20% !important;
+flex: 0 0 33.333333%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 33.3333%;
+    max-width: 33.333333%;
+position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
